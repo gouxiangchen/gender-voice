@@ -25,3 +25,5 @@ finnaly a model parameters file would be saved and it is **57.2MB** in size (muc
 
 the accuracy in training set would approch nearly **100%** and **97%** in testing set (quite sight improvement~ but it works).
 
+**AFTER TRAINING**, you can run `python test_model.py -f` and `python test_model.py -c` to test the trained fully connected model and conv1d model in test set respectively, 
+and it would produce a txt file contains the female probabilities of test data per row.
