@@ -19,9 +19,7 @@ to train a model using 3 fully connected layers, and finnaly a model parameters 
 
 and the accuracy in training set would approch nearly **100%** and **96%** in testing set.
 
-run `python with_conv1d.py`
-
-to train a model using conv1d with much more layers depth than the fully connected, and the **residual learning** strategy is used to handle the deeper depth training.
+run `python with_conv1d.py` to train a model using conv1d with much more layers depth than the fully connected, and the **residual learning** strategy is used to handle the deeper depth training.
 
 finnaly a model parameters file would be saved and it is **57.2MB** in size (much more than fully connected layers model)
 
