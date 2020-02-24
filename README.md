@@ -15,7 +15,7 @@ from [kaggle](https://www.kaggle.com/primaryobjects/voicegender) and excel files
 This repo contains two structures of neural networks to recognize gender of pre-processed voice data (2-classification problem)
 
 run `python with_fully_connect.py`
-to train a model using 3 fully connected layers, and finnaly a model parameters file would be saved. It is **2.07MB** in size
+to train a model using 3 fully connected layers, and finally a model parameters file would be saved. It is **2.07MB** in size
 
 and the accuracy in training set would approch nearly **100%** and **96%** in testing set.
 
